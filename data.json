@@ -1,0 +1,6 @@
+{
+    "projectName": "Himanshu Sharma's Professional Github Account",
+    "description": "This is a TypeScript-based application using Mustache for templating.",
+    "features": ["TypeScript", "Mustache Templates", "Dynamic README", "ESLint/Prettier"],
+    "author": "Himanshu Sharma"
+  }
