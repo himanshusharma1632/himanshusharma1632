@@ -13,6 +13,19 @@
 ## Tools & Technologies I work with
 
 <p>
+<img src="https://img.shields.io/badge/-React.Js-61DAFB?style=flat-square&logo=react&logoSize=auto&logoColor=white" alt="skill:react.js" />
+<img src="https://img.shields.io/badge/-Create React App-1F305F?style=flat-square&logo=createreactapp&logoSize=auto&logoColor=white" alt="skill:CreateReactApp" />
+<img src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoSize=auto&logoColor=white" alt="skill:createReactApp" />
+<img src="https://img.shields.io/badge/-Typescript-3178C6?style=flat-square&logo=typescript&logoSize=auto&logoColor=white" alt="skill:typescript" />
+<img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoSize=auto&logoColor=white" alt="skill:bootstrap" />
+<img src="https://img.shields.io/badge/-Material UI-007FFF?style=flat-square&logo=mui&logoSize=auto&logoColor=white" alt="skill:MUI" />
+<img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoSize=auto&logoColor=white" alt="skill:PostgreSQL" />
+<img src="https://img.shields.io/badge/-GitHub Actions-2088FF?style=flat-square&logo=githubactions&logoSize=auto&logoColor=white" alt="skill:Github Actions" />
+<img src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoSize=auto&logoColor=white" alt="skill:Atlassian Jira" />
+</p>
+
+<!----
+
 <img src = "https://img.shields.io/badge/-React.Js-61DAFB?style=flat-square&logo=react&logoSize=auto&logoColor=white" alt = "skill:react.js" />
 <img src = "https://img.shields.io/badge/-Next.Js-000000?style=flat-square&logo=next.js&logoSize=auto&logoColor=white" alt = "skill:next.js" />
 <img src = "https://img.shields.io/badge/-Create React App-1F305F?style=flat-square&logo=createreactapp&logoSize=auto&logoColor=white" alt = "skill:CreateReactApp" />
@@ -83,8 +96,8 @@
  alt = "skill:Github Pages" />
 <img src = "https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoSize=auto&logoColor=white" 
  alt = "skill:Atlassian Jira" />
-<img src = "https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoSize=auto&logoColor=white" 
- alt = "skill:Atlassian Jira" />
 <img src = "https://img.shields.io/badge/-Claude.ai-D97757?style=flat-square&logo=claude&logoSize=auto&logoColor=white" 
  alt = "skill:Claude AI" />
-</p>
+
+
+---->
