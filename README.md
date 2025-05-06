@@ -61,12 +61,12 @@
      <td>Back End</td>
      <td>
        <p>
-         <img src = "https://img.shields.io/badge/-ASP.NET Core-512BD4?style=flat-square&logo=dotnet&logoSize=auto&logoColor=white" alt = "skill:ASP.NET" />
-         <img src = "https://img.shields.io/badge/-NuGet-004880?style=flat-square&logo=nuget&logoSize=auto&logoColor=white" alt = "skill:NuGet" />
-         <img src = "https://img.shields.io/badge/-JSON Web Tokens-000000?style=flat-square&logo=jsonwebtokens&logoSize=auto&logoColor=white" alt = "skill:JWTs" />
-         <img src = "https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoSize=auto&logoColor=white" alt = "skill:Docker" />
-         <img src = "https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoSize=auto&logoColor=white" alt = "skill:MySQL" />
-         <img src = "https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoSize=auto&logoColor=white" alt = "skill:PostgreSQL" />
+         <img src = "https://img.shields.io/badge/-ASP.NET Core-512BD4?style=flat-square&logo=dotnet&logoSize=auto&logoColor=white" alt = "skill:ASP.NET" />&nbsp;
+         <img src = "https://img.shields.io/badge/-NuGet-004880?style=flat-square&logo=nuget&logoSize=auto&logoColor=white" alt = "skill:NuGet" />&nbsp;
+         <img src = "https://img.shields.io/badge/-JSON Web Tokens-000000?style=flat-square&logo=jsonwebtokens&logoSize=auto&logoColor=white" alt = "skill:JWTs" />&nbsp;
+         <img src = "https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoSize=auto&logoColor=white" alt = "skill:Docker" />&nbsp;
+         <img src = "https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoSize=auto&logoColor=white" alt = "skill:MySQL" />&nbsp;
+         <img src = "https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoSize=auto&logoColor=white" alt = "skill:PostgreSQL" />&nbsp;
        </p>
      </td>
    </tr>
@@ -74,8 +74,8 @@
      <td>API documentation & testing</td>
      <td>
        <p>
-         <img src = "https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoSize=auto&logoColor=white" alt = "skill:Swagger" />
-         <img src = "https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoSize=auto&logoColor=white" alt = "skill:Postman" />
+         <img src = "https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoSize=auto&logoColor=white" alt = "skill:Swagger" />&nbsp;
+         <img src = "https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoSize=auto&logoColor=white" alt = "skill:Postman" />&nbsp;
        </p>
      </td>
    </tr>
@@ -83,10 +83,10 @@
      <td>Source control tools</td>
      <td>
        <p>
-          <img src = "https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoSize=auto&logoColor=white" alt = "skill:Git" />
-          <img src = "https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoSize=auto&logoColor=white" alt = "skill:Github" />
-          <img src = "https://img.shields.io/badge/-GitHub Actions-2088FF?style=flat-square&logo=githubactions&logoSize=auto&logoColor=white" alt = "skill:Github Actions" />
-          <img src = "https://img.shields.io/badge/-GitHub Pages-222222?style=flat-square&logo=githubpages&logoSize=auto&logoColor=white" alt = "skill:Github Pages" />
+          <img src = "https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoSize=auto&logoColor=white" alt = "skill:Git" />&nbsp;
+          <img src = "https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoSize=auto&logoColor=white" alt = "skill:Github" />&nbsp;
+          <img src = "https://img.shields.io/badge/-GitHub Actions-2088FF?style=flat-square&logo=githubactions&logoSize=auto&logoColor=white" alt = "skill:Github Actions" />&nbsp;
+          <img src = "https://img.shields.io/badge/-GitHub Pages-222222?style=flat-square&logo=githubpages&logoSize=auto&logoColor=white" alt = "skill:Github Pages" />&nbsp;
        </p>
      </td>
    </tr>
@@ -94,8 +94,8 @@
      <td>Other utility tools</td>
      <td>
        <p>
-          <img src = "https://img.shields.io/badge/-Cloudinary Platform-3448C5?style=flat-square&logo=cloudinary&logoSize=auto&logoColor=white" alt = "skill:Cloudinary" />
-          <img src = "https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoSize=auto&logoColor=white" alt = "skill:Atlassian Jira" />
+          <img src = "https://img.shields.io/badge/-Cloudinary Platform-3448C5?style=flat-square&logo=cloudinary&logoSize=auto&logoColor=white" alt = "skill:Cloudinary" />&nbsp;
+          <img src = "https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoSize=auto&logoColor=white" alt = "skill:Atlassian Jira" />&nbsp;
        </p>
      </td>
    </tr>
@@ -103,7 +103,8 @@
      <td>AI specific tools</td>
      <td>
        <p>
-          <img src = "https://img.shields.io/badge/-Claude.ai-D97757?style=flat-square&logo=claude&logoSize=auto&logoColor=white" alt = "skill:Claude AI" />
+          <img src = "https://img.shields.io/badge/-Claude.ai-D97757?style=flat-square&logo=claude&logoSize=auto&logoColor=white" alt = "skill:Claude AI" />&nbsp;
+          <img src = "https://img.shields.io/badge/-ChatGPT-D97757?style=flat-square" alt = "skill:ChatGPT AI" />&nbsp;
        </p>
      </td>
    </tr>
