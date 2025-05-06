@@ -22,6 +22,25 @@
 <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoSize=auto&logoColor=white" alt="skill:PostgreSQL" />
 <img src="https://img.shields.io/badge/-GitHub Actions-2088FF?style=flat-square&logo=githubactions&logoSize=auto&logoColor=white" alt="skill:Github Actions" />
 <img src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoSize=auto&logoColor=white" alt="skill:Atlassian Jira" />
+<img src="https://img.shields.io/badge/-Next.Js-000000?style=flat-square&logo=next.js&logoSize=auto&logoColor=white" alt="skill:next.js" />
+<img src="https://img.shields.io/badge/-shadcn/ui-000000?style=flat-square&logo=shadcnui&logoSize=auto&logoColor=white" alt="skill:shadcn/ui" />
+<img src="https://img.shields.io/badge/-JSON Web Tokens-000000?style=flat-square&logo=jsonwebtokens&logoSize=auto&logoColor=white" alt="skill:JWTs" />
+<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoSize=auto&logoColor=white" alt="skill:Github" />
+<img src="https://img.shields.io/badge/-GitHub Pages-222222?style=flat-square&logo=githubpages&logoSize=auto&logoColor=white" alt="skill:Github Pages" />
+<img src="https://img.shields.io/badge/-Node.Js-5FA04E?style=flat-square&logo=nodedotjs&logoSize=auto&logoColor=white" alt="skill:Node.js" />
+<img src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoSize=auto&logoColor=white" alt="skill:Swagger" />
+<img src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoSize=auto&logoColor=white" alt="skill:javascript" />
+<img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoSize=auto&logoColor=white" alt="skill:Postman" />
+<img src="https://img.shields.io/badge/-React Router DOM-CA4245?style=flat-square&logo=reactrouter&logoSize=auto&logoColor=white" alt="skill:reactRouterDOM" />
+<img src="https://img.shields.io/badge/-Lucide React Icons-F56565?style=flat-square&logo=lucide&logoSize=auto&logoColor=white" alt="skill:Lucide React" />
+<img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoSize=auto&logoColor=white" alt="skill:Git" />
+<img src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoSize=auto&logoColor=white" alt="skill:Redux" />
+<img src="https://img.shields.io/badge/-Redux Toolkit-4951F5?style=flat-square&logo=reduxsaga&logoSize=auto&logoColor=white" alt="skill:Redux/Toolkit" />
+<img src="https://img.shields.io/badge/-MobX-FF9955?style=flat-square&logo=mobx&logoSize=auto&logoColor=white" alt="skill:MobX" />
+<img src="https://img.shields.io/badge/-Semantic UI-00B5AD?style=flat-square&logo=semanticui&logoSize=auto&logoColor=white" alt="skill:semanticUI" />
+<img src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=Sass&logoSize=auto&logoColor=white" alt="skill:Sass" />
+<img src="https://img.shields.io/badge/-Tailwind CSS-06B6D4?style=flat-square&logo=tailwindcss&logoSize=auto&logoColor=white" alt="skill:tailwindCSS" />
+<img src="https://img.shields.io/badge/-Styled Components-DB7093?style=flat-square&logo=styledcomponents&logoSize=auto&logoColor=white" alt="skill:styledComponents" />
 </p>
 
 <!----
