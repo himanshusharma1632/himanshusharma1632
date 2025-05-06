@@ -110,6 +110,15 @@
        </p>
      </td>
    </tr>
+   <tr>
+     <td>API documentation & testing</td>
+     <td>
+       <p>
+         <img src = "https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoSize=auto&logoColor=white" alt = "skill:Swagger" />
+         <img src = "https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoSize=auto&logoColor=white" alt = "skill:Postman" />
+       </p>
+     </td>
+   </tr>
  </tbody>
 </table>
 
