@@ -6,9 +6,11 @@
    width = "180" />
 
 <h3 align="center">नमस्कारम् — मेरे GitHub प्रोफ़ाइल में आपका स्वागत है।</h3>
+<h4 align="center">I'm Himanshu Sharma, Senior Front-End developer 🇮🇳 from 
+<strong>Rajasthan, India</strong>.</h4>
 </div>
 
-## Technologies & Tools I Worked On:
+## Tools & Technologies I work with
 
 <p>
 <img src = "https://img.shields.io/badge/-React.Js-61DAFB?style=flat-square&logo=react&logoSize=auto&logoColor=white" alt = "skill:react.js" />
