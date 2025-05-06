@@ -24,21 +24,21 @@
      <td>Front End</td>
      <td>
        <p>
-          <img src = "https://img.shields.io/badge/-React.Js-61DAFB?style=flat-square&logo=react&logoSize=auto&logoColor=white" alt = "skill:react.js" />
-          <img src = "https://img.shields.io/badge/-Next.Js-000000?style=flat-square&logo=next.js&logoSize=auto&logoColor=white" alt = "skill:next.js" />
-          <img src = "https://img.shields.io/badge/-Create React App-1F305F?style=flat-square&logo=createreactapp&logoSize=auto&logoColor=white" alt = "skill:CreateReactApp" />
-          <img src = "https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoSize=auto&logoColor=white" alt = "skill:createReactApp" />
-          <img src = "https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoSize=auto&logoColor=white" alt = "skill:javascript" />
-          <img src = "https://img.shields.io/badge/-Typescript-3178C6?style=flat-square&logo=typescript&logoSize=auto&logoColor=white" alt = "skill:typescript" />
-          <img src = "https://img.shields.io/badge/-React Router DOM-CA4245?style=flat-square&logo=reactrouter&logoSize=auto&logoColor=white" alt = "skill:reactRouterDOM" />
-          <img src = "https://img.shields.io/badge/-React Hook Forms-EC5990?style=flat-square&logo=reacthookform&logoSize=auto&logoColor=white" alt = "skill:RHFs" />
-          <img src = "https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoSize=auto&logoColor=white" alt = "skill:Redux" />
-          <img src = "https://img.shields.io/badge/-Redux Toolkit-4951F5?style=flat-square&logo=reduxsaga&logoSize=auto&logoColor=white" alt = "skill:Redux/Toolkit" />
-          <img src = "https://img.shields.io/badge/-MobX-FF9955?style=flat-square&logo=mobx&logoSize=auto&logoColor=white" alt = "skill:MobX" />
-          <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoSize=auto&logoColor=white" alt = "skill:HTML5" />
-          <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS&logoSize=auto&logoColor=white" alt = "skill:CSS3" />
-          <img src = "https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoSize=auto&logoColor=white" alt = "skill:NPM" />
-          <img src = "https://img.shields.io/badge/-Node.Js-5FA04E?style=flat-square&logo=nodedotjs&logoSize=auto&logoColor=white" alt = "skill:Node.js" />
+          <img src = "https://img.shields.io/badge/-React.Js-61DAFB?style=flat-square&logo=react&logoSize=auto&logoColor=white" alt = "skill:react.js" />&nbsp;
+          <img src = "https://img.shields.io/badge/-Next.Js-000000?style=flat-square&logo=next.js&logoSize=auto&logoColor=white" alt = "skill:next.js" />&nbsp;
+          <img src = "https://img.shields.io/badge/-Create React App-1F305F?style=flat-square&logo=createreactapp&logoSize=auto&logoColor=white" alt = "skill:CreateReactApp" />&nbsp;
+          <img src = "https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoSize=auto&logoColor=white" alt = "skill:createReactApp" />&nbsp;
+          <img src = "https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoSize=auto&logoColor=white" alt = "skill:javascript" />&nbsp;
+          <img src = "https://img.shields.io/badge/-Typescript-3178C6?style=flat-square&logo=typescript&logoSize=auto&logoColor=white" alt = "skill:typescript" />&nbsp;
+          <img src = "https://img.shields.io/badge/-React Router DOM-CA4245?style=flat-square&logo=reactrouter&logoSize=auto&logoColor=white" alt = "skill:reactRouterDOM" />&nbsp;
+          <img src = "https://img.shields.io/badge/-React Hook Forms-EC5990?style=flat-square&logo=reacthookform&logoSize=auto&logoColor=white" alt = "skill:RHFs" />&nbsp;
+          <img src = "https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoSize=auto&logoColor=white" alt = "skill:Redux" />&nbsp;
+          <img src = "https://img.shields.io/badge/-Redux Toolkit-4951F5?style=flat-square&logo=reduxsaga&logoSize=auto&logoColor=white" alt = "skill:Redux/Toolkit" />&nbsp;
+          <img src = "https://img.shields.io/badge/-MobX-FF9955?style=flat-square&logo=mobx&logoSize=auto&logoColor=white" alt = "skill:MobX" />&nbsp;
+          <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoSize=auto&logoColor=white" alt = "skill:HTML5" />&nbsp;
+          <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS&logoSize=auto&logoColor=white" alt = "skill:CSS3" />&nbsp;
+          <img src = "https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoSize=auto&logoColor=white" alt = "skill:NPM" />&nbsp;
+          <img src = "https://img.shields.io/badge/-Node.Js-5FA04E?style=flat-square&logo=nodedotjs&logoSize=auto&logoColor=white" alt = "skill:Node.js" />&nbsp;
        </p>
      </td>
    </tr>
@@ -46,14 +46,14 @@
      <td>CSS tools & UI libraries</td>
      <td>
       <p>
-         <img src = "https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=Sass&logoSize=auto&logoColor=white" alt = "skill:Sass" />
-         <img src = "https://img.shields.io/badge/-Tailwind CSS-06B6D4?style=flat-square&logo=tailwindcss&logoSize=auto&logoColor=white" alt = "skill:tailwindCSS" />
-         <img src = "https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoSize=auto&logoColor=white" alt = "skill:bootstrap" />
-         <img src = "https://img.shields.io/badge/-Material UI-007FFF?style=flat-square&logo=mui&logoSize=auto&logoColor=white" alt = "skill:MUI" />
-         <img src = "https://img.shields.io/badge/-shadcn/ui-000000?style=flat-square&logo=shadcnui&logoSize=auto&logoColor=white" alt = "skill:shadcn/ui" />
-         <img src = "https://img.shields.io/badge/-Semantic UI-00B5AD?style=flat-square&logo=semanticui&logoSize=auto&logoColor=white" alt = "skill:semanticUI" />
-         <img src = "https://img.shields.io/badge/-Styled Components-DB7093?style=flat-square&logo=styledcomponents&logoSize=auto&logoColor=white" alt = "skill:styledComponents" />
-         <img src = "https://img.shields.io/badge/-Lucide React Icons-F56565?style=flat-square&logo=lucide&logoSize=auto&logoColor=white" alt = "skill:Lucide React" />
+         <img src = "https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=Sass&logoSize=auto&logoColor=white" alt = "skill:Sass" />&nbsp;
+         <img src = "https://img.shields.io/badge/-Tailwind CSS-06B6D4?style=flat-square&logo=tailwindcss&logoSize=auto&logoColor=white" alt = "skill:tailwindCSS" />&nbsp;
+         <img src = "https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoSize=auto&logoColor=white" alt = "skill:bootstrap" />&nbsp;
+         <img src = "https://img.shields.io/badge/-Material UI-007FFF?style=flat-square&logo=mui&logoSize=auto&logoColor=white" alt = "skill:MUI" />&nbsp;
+         <img src = "https://img.shields.io/badge/-shadcn/ui-000000?style=flat-square&logo=shadcnui&logoSize=auto&logoColor=white" alt = "skill:shadcn/ui" />&nbsp;
+         <img src = "https://img.shields.io/badge/-Semantic UI-00B5AD?style=flat-square&logo=semanticui&logoSize=auto&logoColor=white" alt = "skill:semanticUI" />&nbsp;
+         <img src = "https://img.shields.io/badge/-Styled Components-DB7093?style=flat-square&logo=styledcomponents&logoSize=auto&logoColor=white" alt = "skill:styledComponents" />&nbsp;
+         <img src = "https://img.shields.io/badge/-Lucide React Icons-F56565?style=flat-square&logo=lucide&logoSize=auto&logoColor=white" alt = "skill:Lucide React" />&nbsp;
       </p>
      </td>
    </tr>
