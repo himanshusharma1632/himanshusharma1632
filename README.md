@@ -59,4 +59,14 @@ alt = "skill:Swagger" />
 alt = "skill:Postman" />
 <img src = "https://img.shields.io/badge/-JSON Web Tokens-000000?style=flat-square&logo=jsonwebtokens&logoSize=auto&logoColor=white" 
 alt = "skill:JWTs" />
+<img src = "https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoSize=auto&logoColor=white" 
+alt = "skill:Docker" />
+<img src = "https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoSize=auto&logoColor=white" 
+alt = "skill:MySQL" />
+<img src = "https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoSize=auto&logoColor=white" 
+alt = "skill:PostgreSQL" />
+<img src = "https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoSize=auto&logoColor=white" 
+alt = "skill:PostgreSQL" />
+<img src = "https://img.shields.io/badge/-Cloudinary Platform-3448C5?style=flat-square&logo=cloudinary&logoSize=auto&logoColor=white" 
+alt = "skill:Cloudinary" />
 </p>
