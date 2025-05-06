@@ -128,6 +128,9 @@
  <a href="" target="_blank">
    <img src = "https://img.shields.io/badge/-Instagram-FF0069?style=flat-square&logo=instagram&logoSize=auto&logoColor=white" alt = "connect with instagram" />
  </a>
+ <a href="" target="_blank">
+   <img src = "https://img.shields.io/badge/-X.com-000000?style=flat-square&logo=x&logoSize=auto&logoColor=white" alt = "connect with tweeter(x)" />
+ </a>
 </p>
 
 
