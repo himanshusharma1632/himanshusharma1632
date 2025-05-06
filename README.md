@@ -77,6 +77,8 @@
           <img src = "https://img.shields.io/badge/-MobX-FF9955?style=flat-square&logo=mobx&logoSize=auto&logoColor=white" alt = "skill:MobX" />
           <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoSize=auto&logoColor=white" alt = "skill:HTML5" />
           <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS&logoSize=auto&logoColor=white" alt = "skill:CSS3" />
+          <img src = "https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoSize=auto&logoColor=white" alt = "skill:NPM" />
+          <img src = "https://img.shields.io/badge/-Node.Js-5FA04E?style=flat-square&logo=nodedotjs&logoSize=auto&logoColor=white" alt = "skill:Node.js" />
        </p>
      </td>
    </tr>
@@ -93,6 +95,19 @@
          <img src = "https://img.shields.io/badge/-Styled Components-DB7093?style=flat-square&logo=styledcomponents&logoSize=auto&logoColor=white" alt = "skill:styledComponents" />
          <img src = "https://img.shields.io/badge/-Lucide React Icons-F56565?style=flat-square&logo=lucide&logoSize=auto&logoColor=white" alt = "skill:Lucide React" />
       </p>
+     </td>
+   </tr>
+   <tr>
+     <td>Back End</td>
+     <td>
+       <p>
+         <img src = "https://img.shields.io/badge/-ASP.NET Core-512BD4?style=flat-square&logo=dotnet&logoSize=auto&logoColor=white" alt = "skill:ASP.NET" />
+         <img src = "https://img.shields.io/badge/-NuGet-004880?style=flat-square&logo=nuget&logoSize=auto&logoColor=white" alt = "skill:NuGet" />
+         <img src = "https://img.shields.io/badge/-JSON Web Tokens-000000?style=flat-square&logo=jsonwebtokens&logoSize=auto&logoColor=white" alt = "skill:JWTs" />
+         <img src = "https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoSize=auto&logoColor=white" alt = "skill:Docker" />
+         <img src = "https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoSize=auto&logoColor=white" alt = "skill:MySQL" />
+         <img src = "https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoSize=auto&logoColor=white" alt = "skill:PostgreSQL" />
+       </p>
      </td>
    </tr>
  </tbody>
