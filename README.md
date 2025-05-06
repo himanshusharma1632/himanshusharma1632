@@ -49,6 +49,14 @@ alt = "skill:semanticUI" />
 alt = "skill:styledComponents" />
 <img src = "https://img.shields.io/badge/-Node.Js-5FA04E?style=flat-square&logo=nodedotjs&logoSize=auto&logoColor=white" 
 alt = "skill:Node.js" />
-<img src = "https://img.shields.io/badge/JSON Web Tokens-000000?style=flat-square&logo=jsonwebtokens&logoSize=auto&logoColor=white" 
+<img src = "https://img.shields.io/badge/-ASP.NET Core-512BD4?style=flat-square&logo=dotnet&logoSize=auto&logoColor=white" 
+alt = "skill:ASP.NET" />
+<img src = "https://img.shields.io/badge/-NuGet-004880?style=flat-square&logo=nuget&logoSize=auto&logoColor=white" 
+alt = "skill:NuGet" />
+<img src = "https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoSize=auto&logoColor=white" 
+alt = "skill:Swagger" />
+<img src = "https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoSize=auto&logoColor=white" 
+alt = "skill:Postman" />
+<img src = "https://img.shields.io/badge/-JSON Web Tokens-000000?style=flat-square&logo=jsonwebtokens&logoSize=auto&logoColor=white" 
 alt = "skill:JWTs" />
 </p>
