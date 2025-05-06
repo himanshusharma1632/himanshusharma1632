@@ -1,5 +1,5 @@
 <div align="left">
-  <img src = "./public/tools-GIF.gif" alt="tools.gif" width="40" />
+  <img src = "./public/tools-GIF.gif" alt="tools.gif" width="30" />
 </div>
 
 <div align="center">
@@ -14,7 +14,11 @@
 <strong>Rajasthan, India</strong>.</h4>
 </div>
 
-## Tools & Technologies I work with
+<p>
+ <img src = "./public/tools-GIF.gif" alt="tools.gif" width="30" />
+ 
+ ## Tools & Technologies I work with
+</p>
 
 <table>
  <thead align="center">
