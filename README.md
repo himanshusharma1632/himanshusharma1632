@@ -85,7 +85,7 @@
      </td>
    </tr>
    <tr>
-     <td>Source control tools</td>
+     <td>Source control</td>
      <td>
        <p>
           <img src = "https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoSize=auto&logoColor=white" alt = "skill:Git" />
@@ -96,7 +96,7 @@
      </td>
    </tr>
    <tr>
-     <td>Other utility tools</td>
+     <td>Other workplace utilities</td>
      <td>
        <p>
           <img src = "https://img.shields.io/badge/-Cloudinary Platform-3448C5?style=flat-square&logo=cloudinary&logoSize=auto&logoColor=white" alt = "skill:Cloudinary" />
