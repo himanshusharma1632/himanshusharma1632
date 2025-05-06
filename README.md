@@ -11,8 +11,7 @@
 ## Technologies & Tools I Worked On:
 
 <img src = "https://img.shields.io/badge/-React.js-fd72c0?style=flat-square&logo=react&logoSize=auto&logoColor=white" 
- alt = "skill1_react.js" width = "50">&nbsp;|
+ alt = "skill1_react.js">&nbsp;|
 <img src = "https://img.shields.io/badge/=Next.js-fd9bd5?style=flat-square&logo=next&logoSize=auto&logoColor=white" 
- alt = "skill1_react.js" width = "50">&nbsp;|
- <img src = "https://img.shields.io/badge/-Typescript-f9cdfb?style=flat-square&logo=typescript&logoSize=auto&logoColor=black" 
- alt = "skill1_react.js" width = "50">&nbsp;|
+ alt = "skill1_react.js">&nbsp;|
+ <img src = "https://img.shields.io/badge/-Typescript-f9cdfb?style=flat-square&logo=typescript&logoSize=auto&logoColor=black" alt = "skill1_react.js">&nbsp;|
