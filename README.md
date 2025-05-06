@@ -119,6 +119,17 @@
        </p>
      </td>
    </tr>
+   <tr>
+     <td>Source control tools</td>
+     <td>
+       <p>
+          <img src = "https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoSize=auto&logoColor=white" alt = "skill:Git" />
+          <img src = "https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoSize=auto&logoColor=white" alt = "skill:Github" />
+          <img src = "https://img.shields.io/badge/-GitHub Actions-2088FF?style=flat-square&logo=githubactions&logoSize=auto&logoColor=white" alt = "skill:Github Actions" />
+          <img src = "https://img.shields.io/badge/-GitHub Pages-222222?style=flat-square&logo=githubpages&logoSize=auto&logoColor=white" alt = "skill:Github Pages" />
+       </p>
+     </td>
+   </tr>
  </tbody>
 </table>
 
