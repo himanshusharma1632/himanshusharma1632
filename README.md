@@ -12,7 +12,7 @@
 
 ## Tools & Technologies I work with
 
-<p>
+<!---<p>
 <img src="https://img.shields.io/badge/-React.Js-61DAFB?style=flat-square&logo=react&logoSize=auto&logoColor=white" alt="skill:react.js" />
 <img src="https://img.shields.io/badge/-Create React App-1F305F?style=flat-square&logo=createreactapp&logoSize=auto&logoColor=white" alt="skill:CreateReactApp" />
 <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoSize=auto&logoColor=white" alt="skill:createReactApp" />
@@ -50,10 +50,9 @@
 <img src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=Sass&logoSize=auto&logoColor=white" alt="skill:Sass" />
 <img src="https://img.shields.io/badge/-Tailwind CSS-06B6D4?style=flat-square&logo=tailwindcss&logoSize=auto&logoColor=white" alt="skill:tailwindCSS" />
 <img src="https://img.shields.io/badge/-Styled Components-DB7093?style=flat-square&logo=styledcomponents&logoSize=auto&logoColor=white" alt="skill:styledComponents" />
-</p>
+</p> --->
 
-<!----
-
+<p>
 <img src = "https://img.shields.io/badge/-React.Js-61DAFB?style=flat-square&logo=react&logoSize=auto&logoColor=white" alt = "skill:react.js" />
 <img src = "https://img.shields.io/badge/-Next.Js-000000?style=flat-square&logo=next.js&logoSize=auto&logoColor=white" alt = "skill:next.js" />
 <img src = "https://img.shields.io/badge/-Create React App-1F305F?style=flat-square&logo=createreactapp&logoSize=auto&logoColor=white" alt = "skill:CreateReactApp" />
@@ -126,6 +125,4 @@
  alt = "skill:Atlassian Jira" />
 <img src = "https://img.shields.io/badge/-Claude.ai-D97757?style=flat-square&logo=claude&logoSize=auto&logoColor=white" 
  alt = "skill:Claude AI" />
-
-
----->
+</p>
