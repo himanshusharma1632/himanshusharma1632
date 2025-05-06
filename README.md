@@ -120,7 +120,13 @@
 
 <p align="center">
   <a href="" target="_blank">
-    <img src = "https://img.shields.io/badge/-LinkedIn-D97757?style=flat-square" alt = "skill:Claude AI" />
+    <img src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square" alt = "connect with linkedin" />
+ </a>
+ <a href="" target="_blank">
+    <img src = "https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoSize=auto&logoColor=white" alt = "connect with github" />
+ </a>
+ <a href="" target="_blank">
+   <img src = "https://img.shields.io/badge/-Instagram-FF0069?style=flat-square&logo=instagram&logoSize=auto&logoColor=white" alt = "connect with instagram" />
  </a>
 </p>
 
