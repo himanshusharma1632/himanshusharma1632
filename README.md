@@ -17,7 +17,7 @@
 <img src = "https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoSize=auto&logoColor=white" alt = "skill:createReactApp" />
 <img src = "https://img.shields.io/badge/-Javascript-641159?style=flat-square&logo=javascript&logoSize=auto&logoColor=white" 
 alt = "skill:javascript" />
-<img src = "https://img.shields.io/badge/-Typescript-b91b6f?style=flat-square&logo=typescript&logoSize=auto&logoColor=white" 
+<img src = "https://img.shields.io/badge/-Typescript-3178C6?style=flat-square&logo=typescript&logoSize=auto&logoColor=white" 
 alt = "skill:typescript" />
 <img src = "https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoSize=auto&logoColor=white" 
 alt = "skill:Redux" />
@@ -35,12 +35,14 @@ alt = "skill:Sass" />
 alt = "skill:tailwindCSS" />
 <img src = "https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoSize=auto&logoColor=white" 
 alt = "skill:bootstrap" />
-<img src = "https://img.shields.io/badge/-MaterialUI-007FFF?style=flat-square&logo=mui&logoSize=auto&logoColor=white" 
+<img src = "https://img.shields.io/badge/-Material UI-007FFF?style=flat-square&logo=mui&logoSize=auto&logoColor=white" 
 alt = "skill:MUI" />
 <img src = "https://img.shields.io/badge/-shadcn/ui-000000?style=flat-square&logo=shadcnui&logoSize=auto&logoColor=white" 
 alt = "skill:shadcn/ui" />
 <img src = "https://img.shields.io/badge/-Semantic UI-00B5AD?style=flat-square&logo=semanticui&logoSize=auto&logoColor=white" 
-alt = "skill:sementicUI" />
+alt = "skill:semanticUI" />
+<img src = "https://img.shields.io/badge/-Styled Components-DB7093?style=flat-square&logo=styledcomponents&logoSize=auto&logoColor=white" 
+alt = "skill:styledComponents" />
 <img src = "https://img.shields.io/badge/-Node.Js-5FA04E?style=flat-square&logo=nodedotjs&logoSize=auto&logoColor=white" 
 alt = "skill:Node.js" />
 </p>
