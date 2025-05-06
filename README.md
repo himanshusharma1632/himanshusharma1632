@@ -116,4 +116,12 @@
  </tbody>
 </table>
 
+## An easy way to connect/remember me
+
+<p align="center">
+  <a href="" target="_blank">
+    <img src = "https://img.shields.io/badge/-LinkedIn-D97757?style=flat-square" alt = "skill:Claude AI" />
+ </a>
+</p>
+
 
