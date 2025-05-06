@@ -10,8 +10,9 @@
 
 ## Technologies & Tools I Worked On:
 
-<img src = "https://img.shields.io/badge/-React.js-fd72c0?style=flat-square&logo=react&logoSize=auto&logoColor=white" 
- alt = "skill1_react.js">&nbsp;|
-<img src = "https://img.shields.io/badge/=Next.js-fd9bd5?style=flat-square&logo=next&logoSize=auto&logoColor=white" 
- alt = "skill1_react.js">&nbsp;|
- <img src = "https://img.shields.io/badge/-Typescript-f9cdfb?style=flat-square&logo=typescript&logoSize=auto&logoColor=black" alt = "skill1_react.js">&nbsp;|
+<img src = "https://img.shields.io/badge/-React.js-1a1859?style=flat-square&logo=react&logoSize=autologoColor=white" alt = "skill:react.js">
+<img src = "https://img.shields.io/badge/-Next.js-241149?style=flat-square&logo=next&logoSize=auto&logoColor=white" alt = "skill:next.js">
+<img src = "https://img.shields.io/badge/-Javascript-641159?style=flat-square&logo=javascript&logoSize=auto&logoColor=white" 
+alt = "skill:javascript">
+<img src = "https://img.shields.io/badge/-Typescript-b91b6f?style=flat-square&logo=typescript&logoSize=auto&logoColor=white" 
+alt = "skill:typescript">
