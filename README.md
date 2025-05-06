@@ -15,10 +15,12 @@
 <img src = "https://img.shields.io/badge/-Next.js-241149?style=flat-square&logo=next.js&logoSize=auto&logoColor=white" alt = "skill:next.js" />
 <img src = "https://img.shields.io/badge/-Create React App-1F305F?style=flat-square&logo=createreactapp&logoSize=auto&logoColor=white" alt = "skill:CreateReactApp" />
 <img src = "https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoSize=auto&logoColor=white" alt = "skill:createReactApp" />
-<img src = "https://img.shields.io/badge/-Javascript-641159?style=flat-square&logo=javascript&logoSize=auto&logoColor=white" 
+<img src = "https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoSize=auto&logoColor=white" 
 alt = "skill:javascript" />
 <img src = "https://img.shields.io/badge/-Typescript-3178C6?style=flat-square&logo=typescript&logoSize=auto&logoColor=white" 
 alt = "skill:typescript" />
+<img src = "https://img.shields.io/badge/-React Hook Forms-EC5990?style=flat-square&logo=reacthookform&logoSize=auto&logoColor=white" 
+alt = "skill:RHFs" />
 <img src = "https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoSize=auto&logoColor=white" 
 alt = "skill:Redux" />
 <img src = "https://img.shields.io/badge/-Redux Toolkit-4951F5?style=flat-square&logo=reduxsaga&logoSize=auto&logoColor=white" 
