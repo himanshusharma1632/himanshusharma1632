@@ -13,16 +13,16 @@
 <p>
 <img src = "https://img.shields.io/badge/-React.js-1a1859?style=flat-square&logo=react&logoSize=auto&logoColor=white" alt = "skill:react.js" />
 <img src = "https://img.shields.io/badge/-Next.js-241149?style=flat-square&logo=next.js&logoSize=auto&logoColor=white" alt = "skill:next.js" />
-<img src = "https://img.shields.io/badge/Create React App-1F305F?style=flat-square&logo=createreactapp&logoSize=auto&logoColor=white" alt = "skill:createReactApp" />
-<img src = "https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoSize=auto&logoColor=white" alt = "skill:createReactApp" />
+<img src = "https://img.shields.io/badge/-Create React App-1F305F?style=flat-square&logo=createreactapp&logoSize=auto&logoColor=white" alt = "skill:CreateReactApp" />
+<img src = "https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoSize=auto&logoColor=white" alt = "skill:createReactApp" />
 <img src = "https://img.shields.io/badge/-Javascript-641159?style=flat-square&logo=javascript&logoSize=auto&logoColor=white" 
 alt = "skill:javascript" />
 <img src = "https://img.shields.io/badge/-Typescript-b91b6f?style=flat-square&logo=typescript&logoSize=auto&logoColor=white" 
 alt = "skill:typescript" />
-<img src = "https://img.shields.io/badge/-HTML5-041421?style=flat-square&logo=HTML5&logoSize=auto&logoColor=white" 
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoSize=auto&logoColor=white" 
 alt = "skill:HTML5" />
-<img src = "https://img.shields.io/badge/-CSS-042630?style=flat-square&logo=CSS&logoSize=auto&logoColor=white" 
-alt = "skill:CSS" />
+<img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS&logoSize=auto&logoColor=white" 
+alt = "skill:CSS3" />
 <img src = "https://img.shields.io/badge/-Sass-4c7273?style=flat-square&logo=Sass&logoSize=auto&logoColor=white" 
 alt = "skill:Sass" />
 <img src = "https://img.shields.io/badge/-Tailwind CSS-86b9b0?style=flat-square&logo=tailwindcss&logoSize=auto&logoColor=white" 
@@ -33,4 +33,6 @@ alt = "skill:bootstrap" />
 alt = "skill:MUI" />
 <img src = "https://img.shields.io/badge/-shadcn/ui-000000?style=flat-square&logo=shadcnui&logoSize=auto&logoColor=white" 
 alt = "skill:shadcn/ui" />
+<img src = "https://img.shields.io/badge/-Sementic UI-00B5AD?style=flat-square&logo=sementicui&logoSize=auto&logoColor=white" 
+alt = "skill:sementicUI" />
 </p>
