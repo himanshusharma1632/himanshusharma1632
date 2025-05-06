@@ -13,6 +13,7 @@
 <p>
 <img src = "https://img.shields.io/badge/-React.js-1a1859?style=flat-square&logo=react&logoSize=autologoColor=white" alt = "skill:react.js" />
 <img src = "https://img.shields.io/badge/-Next.js-241149?style=flat-square&logo=next.js&logoSize=auto&logoColor=white" alt = "skill:next.js" />
+<img src = "https://img.shields.io/badge/-Create-React-App(CRA)-1F305F?style=flat-square&logo=createreactapp&logoSize=autologoColor=white" alt = "skill:react.js" />
 <img src = "https://img.shields.io/badge/-Javascript-641159?style=flat-square&logo=javascript&logoSize=auto&logoColor=white" 
 alt = "skill:javascript" />
 <img src = "https://img.shields.io/badge/-Typescript-b91b6f?style=flat-square&logo=typescript&logoSize=auto&logoColor=white" 
@@ -23,6 +24,10 @@ alt = "skill:HTML5" />
 alt = "skill:CSS" />
 <img src = "https://img.shields.io/badge/-Sass-4c7273?style=flat-square&logo=Sass&logoSize=auto&logoColor=white" 
 alt = "skill:Sass" />
-<img src = "https://img.shields.io/badge/-Sass-86b9b0?style=flat-square&logo=tailwindcss&logoSize=auto&logoColor=white" 
+<img src = "https://img.shields.io/badge/-TailwindCSS-86b9b0?style=flat-square&logo=tailwindcss&logoSize=auto&logoColor=white" 
 alt = "skill:tailwindCSS" />
+<img src = "https://img.shields.io/badge/-MaterialUI(MUI)-757575?style=flat-square&logo=mui&logoSize=auto&logoColor=white" 
+alt = "skill:materialUI" />
+<img src = "https://img.shields.io/badge/-shadcn/ui(MUI)-000000?style=flat-square&logo=shadcnui&logoSize=auto&logoColor=white" 
+alt = "skill:shadcn/ui" />
 </p>
