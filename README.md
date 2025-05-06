@@ -130,6 +130,23 @@
        </p>
      </td>
    </tr>
+   <tr>
+     <td>Other utility tools</td>
+     <td>
+       <p>
+          <img src = "https://img.shields.io/badge/-Cloudinary Platform-3448C5?style=flat-square&logo=cloudinary&logoSize=auto&logoColor=white" alt = "skill:Cloudinary" />
+          <img src = "https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoSize=auto&logoColor=white" alt = "skill:Atlassian Jira" />
+       </p>
+     </td>
+   </tr>
+   <tr>
+     <td>AI specific tools</td>
+     <td>
+       <p>
+          <img src = "https://img.shields.io/badge/-Claude.ai-D97757?style=flat-square&logo=claude&logoSize=auto&logoColor=white" alt = "skill:Claude AI" />
+       </p>
+     </td>
+   </tr>
  </tbody>
 </table>
 
