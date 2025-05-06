@@ -81,4 +81,10 @@
  alt = "skill:Github Actions" />
 <img src = "https://img.shields.io/badge/-GitHub Pages-222222?style=flat-square&logo=githubpages&logoSize=auto&logoColor=white" 
  alt = "skill:Github Pages" />
+<img src = "https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoSize=auto&logoColor=white" 
+ alt = "skill:Atlassian Jira" />
+<img src = "https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoSize=auto&logoColor=white" 
+ alt = "skill:Atlassian Jira" />
+<img src = "https://img.shields.io/badge/-Claude.ai-D97757?style=flat-square&logo=claude&logoSize=auto&logoColor=white" 
+ alt = "skill:Claude AI" />
 </p>
