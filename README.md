@@ -23,4 +23,6 @@ alt = "skill:HTML5" />
 alt = "skill:CSS" />
 <img src = "https://img.shields.io/badge/-Sass-4c7273?style=flat-square&logo=Sass&logoSize=auto&logoColor=white" 
 alt = "skill:Sass" />
+<img src = "https://img.shields.io/badge/-Sass-86b9b0?style=flat-square&logo=tailwindcss&logoSize=auto&logoColor=white" 
+alt = "skill:tailwindCSS" />
 </p>
