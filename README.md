@@ -10,15 +10,12 @@
    width = "180" />
 
 <h3 align="center">नमस्कारम् — मेरे GitHub प्रोफ़ाइल में आपका स्वागत है।</h3>
-<h4 align="center">I'm Himanshu Sharma, Senior Front-End developer 🇮🇳 from 
+<h4 align="center">I'm Himanshu Sharma, Senior Front-End developer
+<img src = "./public/IndianFlag.png" alt = "Indian_flag" width = "20" /> from 
 <strong>Rajasthan, India</strong>.</h4>
 </div>
 
-<p>
- <img src = "./public/tools-GIF.gif" alt="tools.gif" width="30" />
- 
- ## Tools & Technologies I work with
-</p>
+## Tools & Technologies I work with
 
 <table>
  <thead align="center">
