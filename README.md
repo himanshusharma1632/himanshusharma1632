@@ -23,6 +23,8 @@ alt = "skill:typescript" />
 alt = "skill:Redux" />
 <img src = "https://img.shields.io/badge/-Redux Toolkit-4951F5?style=flat-square&logo=reduxsaga&logoSize=auto&logoColor=white" 
 alt = "skill:Redux/Toolkit" />
+<img src = "https://img.shields.io/badge/-MobX-FF9955?style=flat-square&logo=mobx&logoSize=auto&logoColor=white" 
+alt = "skill:MobX" />
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoSize=auto&logoColor=white" 
 alt = "skill:HTML5" />
 <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS&logoSize=auto&logoColor=white" 
@@ -39,6 +41,6 @@ alt = "skill:MUI" />
 alt = "skill:shadcn/ui" />
 <img src = "https://img.shields.io/badge/-Semantic UI-00B5AD?style=flat-square&logo=semanticui&logoSize=auto&logoColor=white" 
 alt = "skill:sementicUI" />
-<img src = "https://img.shields.io/badge/-Semantic UI-00B5AD?style=flat-square&logo=semanticui&logoSize=auto&logoColor=white" 
-alt = "skill:sementicUI" />
+<img src = "https://img.shields.io/badge/-Node.Js-5FA04E?style=flat-square&logo=nodedotjs&logoSize=auto&logoColor=white" 
+alt = "skill:Node.js" />
 </p>
