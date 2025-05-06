@@ -52,6 +52,32 @@
 <img src="https://img.shields.io/badge/-Styled Components-DB7093?style=flat-square&logo=styledcomponents&logoSize=auto&logoColor=white" alt="skill:styledComponents" />
 </p> --->
 
+<table>
+ <thead align="center">
+  <tr border="none">
+    <td>Category</td>
+    <td>Expertize in tools</td>
+  </tr>
+ </thead>
+ <tbody>
+   <tr>
+     <td>Front End</td>
+     <td>
+       <p>
+          <img src = "https://img.shields.io/badge/-React.Js-61DAFB?style=flat-square&logo=react&logoSize=auto&logoColor=white" alt = "skill:react.js" />
+          <img src = "https://img.shields.io/badge/-Next.Js-000000?style=flat-square&logo=next.js&logoSize=auto&logoColor=white" alt = "skill:next.js" />
+          <img src = "https://img.shields.io/badge/-Create React App-1F305F?style=flat-square&logo=createreactapp&logoSize=auto&logoColor=white" alt = "skill:CreateReactApp" />
+          <img src = "https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoSize=auto&logoColor=white" alt = "skill:createReactApp" />
+          <img src = "https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoSize=auto&logoColor=white" alt = "skill:javascript" />
+          <img src = "https://img.shields.io/badge/-Typescript-3178C6?style=flat-square&logo=typescript&logoSize=auto&logoColor=white" alt = "skill:typescript" />
+          <img src = "https://img.shields.io/badge/-React Router DOM-CA4245?style=flat-square&logo=reactrouter&logoSize=auto&logoColor=white" alt = "skill:reactRouterDOM" />
+          <img src = "https://img.shields.io/badge/-React Hook Forms-EC5990?style=flat-square&logo=reacthookform&logoSize=auto&logoColor=white" alt = "skill:RHFs" />
+       </p>
+     </td>
+   </tr>
+ </tbody>
+</table>
+
 <p>
 <img src = "https://img.shields.io/badge/-React.Js-61DAFB?style=flat-square&logo=react&logoSize=auto&logoColor=white" alt = "skill:react.js" />
 <img src = "https://img.shields.io/badge/-Next.Js-000000?style=flat-square&logo=next.js&logoSize=auto&logoColor=white" alt = "skill:next.js" />
