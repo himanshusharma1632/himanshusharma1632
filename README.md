@@ -157,6 +157,8 @@
  </tbody>
 </table>
 
+<h2><img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="25" height="25" style="vertical-align:middle; margin-right:8px;" />An easy way to connect/remember me</h2>
+
 ## An easy way to connect/remember me
 
 <p align="center">
