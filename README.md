@@ -12,6 +12,13 @@
         alt = "welcome_logo" 
         width = "180" />
      </td>
+     <td>
+       <h3 align="center">नमस्कारम् — Welcome to my GitHub profile</h3>
+       <h4 align="center">I'm Himanshu Sharma, Senior Front-End developer
+          <img src = "./public/IndianFlag.png" alt = "Indian_flag" width = "20" /> from 
+          <strong>Rajasthan, India</strong>.
+       </h4>
+     </td>
    </tr>
  </tbody>
 </table>
