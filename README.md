@@ -136,7 +136,7 @@
    <tr>
      <td>Mathrubhumi Group</td>
      <td>
-       <img src = "https://img.shields.io/badge/-Website-FF9E0F?style=flat-square" alt = "projectType:website" />
+       <img src = "https://img.shields.io/badge/-Website-19216C?style=flat-square" alt = "projectType:website" />
      </td>
      <td>
        <a href="https://himanshusharma1632.github.io/MathrubhumiGroup/" target="_blank">Click here</a>
