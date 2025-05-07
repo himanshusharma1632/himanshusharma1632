@@ -129,7 +129,10 @@
  All of the above listed tools are ones I've used extensively and hold professional proficiency in.
 </small>
 
-## My recent projects collection
+<h2>
+  <img src="./public/computer-project.gif" alt="project_blob" width="25" height="25" />
+  My recent projects collection
+</h2>
 
 <table>
  <thead align="center">
