@@ -136,7 +136,7 @@
    <tr>
      <td>Mathrubhumi Group</td>
      <td>
-       <img src = "https://img.shields.io/badge/-Website-FF9E0F?style=flat" alt = "projectType:website" />
+       <img src = "https://img.shields.io/badge/-Website-FF9E0F?style=flat-square" alt = "projectType:website" />
      </td>
      <td>
        <a href="https://himanshusharma1632.github.io/MathrubhumiGroup/" target="_blank">Click here</a>
@@ -147,10 +147,10 @@
   <tr>
      <td>Himworld e.Commerce</td>
      <td>
-       <img src = "https://img.shields.io/badge/-Web App-00465B?style=flat" alt = "projectType:website" />
+       <img src = "https://img.shields.io/badge/-Web Application-00465B?style=flat-square" alt = "projectType:web application" />
      </td>
      <td>
-       <a href="https://himanshusharma1632.github.io/MathrubhumiGroup/" target="_blank">Click here</a>
+       <a href="http://himworld.runasp.net/" target="_blank">Click here</a>
      </td>
      <td><img src="https://img.shields.io/badge/-Completed-A9225C?style=flat-square&logo=ticktick&logoSize=auto&logoColor=white" /></td>
   </tr>
@@ -161,16 +161,16 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hscodes/" target="_blank">
-    <img src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square" alt = "connect with linkedin" />
+    <img src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat" alt = "connect with linkedin" />
  </a>
  <a href="https://github.com/himanshusharma1632" target="_blank">
-    <img src = "https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoSize=auto&logoColor=white" alt = "connect with github" />
+    <img src = "https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoSize=auto&logoColor=white" alt = "connect with github" />
  </a>
  <a href="https://www.instagram.com/himanshusharmapiano/" target="_blank">
-   <img src = "https://img.shields.io/badge/-Instagram-FF0069?style=flat-square&logo=instagram&logoSize=auto&logoColor=white" alt = "connect with instagram" />
+   <img src = "https://img.shields.io/badge/-Instagram-FF0069?style=flat&logo=instagram&logoSize=auto&logoColor=white" alt = "connect with instagram" />
  </a>
  <a href="https://x.com/HimanshuShPiano" target="_blank">
-   <img src = "https://img.shields.io/badge/-X.com-000000?style=flat-square&logo=x&logoSize=auto&logoColor=white" alt = "connect with tweeter(x)" />
+   <img src = "https://img.shields.io/badge/-X.com-000000?style=flat&logo=x&logoSize=auto&logoColor=white" alt = "connect with tweeter(x)" />
  </a>
 </p>
 
