@@ -162,23 +162,9 @@
  An easy way to connect/remember me
 </h2>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/hscodes/" target="_blank">
-    <img src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat" alt = "connect with linkedin" />
-    &nbsp;
- </a>
- <a href="https://github.com/himanshusharma1632" target="_blank">
-    <img src = "https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoSize=auto&logoColor=white" alt = "connect with github" />
-    &nbsp;
- </a>
- <a href="https://www.instagram.com/himanshusharmapiano/" target="_blank">
-   <img src = "https://img.shields.io/badge/-Instagram-FF0069?style=flat&logo=instagram&logoSize=auto&logoColor=white" alt = "connect with instagram" />
-   &nbsp;
- </a>
- <a href="https://x.com/HimanshuShPiano" target="_blank">
-   <img src = "https://img.shields.io/badge/-X.com-000000?style=flat&logo=x&logoSize=auto&logoColor=white" alt = "connect with tweeter(x)" />
-   &nbsp;
- </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat)](https://www.linkedin.com/in/hscodes/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/himanshusharma1632)
+[![Instagram](https://img.shields.io/badge/-Instagram-FF0069?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/himanshusharmapiano/)
+[![X.com](https://img.shields.io/badge/-X.com-000000?style=flat&logo=x&logoColor=white)](https://x.com/HimanshuShPiano)
 
 
