@@ -141,7 +141,18 @@
      <td>
        <a href="https://himanshusharma1632.github.io/MathrubhumiGroup/" target="_blank">Click here</a>
      </td>
-     <td><img src="https://img.shields.io/badge/_-Completed-FF9E0F?style=flat-square&logo=ticktick&logoSize=auto&logoColor=white" /></td>
+     <td><img src="https://img.shields.io/badge/-Completed-A9225C?style=flat-square&logo=ticktick&logoSize=auto&logoColor=white" /></td>
+  </tr>
+
+  <tr>
+     <td>Himworld e.Commerce</td>
+     <td>
+       <img src = "https://img.shields.io/badge/-Web App-00465B?style=flat" alt = "projectType:website" />
+     </td>
+     <td>
+       <a href="https://himanshusharma1632.github.io/MathrubhumiGroup/" target="_blank">Click here</a>
+     </td>
+     <td><img src="https://img.shields.io/badge/-Completed-A9225C?style=flat-square&logo=ticktick&logoSize=auto&logoColor=white" /></td>
   </tr>
  </tbody>
 </table>
