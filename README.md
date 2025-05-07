@@ -1,6 +1,20 @@
 <div align="left">
-  <img src = "./public/tools-GIF.gif" alt="tools.gif" width="30" />
+  <img src="./public/blob-sunglasses.gif" alt="blob_cool" width="25" height="25" />
 </div>
+
+<table>
+ <tbody>
+   <tr>
+     <td align="center">
+       <img 
+        style = "background:none" 
+        src = "./public/himanshu_profile.png" 
+        alt = "welcome_logo" 
+        width = "180" />
+     </td>
+   </tr>
+ </tbody>
+</table>
 
 <div align="center">
   <img 
@@ -15,10 +29,8 @@
 <strong>Rajasthan, India</strong>.</h4>
 </div>
 
-<h2>
- <img src="./public/blob-sunglasses.gif" alt="blob_cool" width="25" height="25" style="vertical-align:sub;" />
- Tools & technologies I code with
-</h2>
+
+## Tools & technologies I code with
 
 <table>
  <thead align="center">
