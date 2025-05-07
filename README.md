@@ -115,6 +115,7 @@
    </tr>
  </tbody>
 </table>
+<small><strong>Note</strong>All listed tools are ones I've used extensively and hold professional proficiency in.</small>
 
 ## My recent projects collection
 
@@ -122,13 +123,14 @@
  <thead align="center">
   <tr border="none">
     <td><strong>Project</strong></td>
+    <td><strong>Status</strong></td>
     <td><strong>View LIVE</strong></td>
   </tr>
  </thead>
 
  <tbody>
    <tr>
-     <td>Front End</td>
+     <td>Mathrubhumi</td>
      <td></td>
   </tr>
  </tbody>
