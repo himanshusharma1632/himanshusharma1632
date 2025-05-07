@@ -23,20 +23,6 @@
  </tbody>
 </table>
 
-<div align="center">
-  <img 
-   style = "background:none" 
-   src = "./public/himanshu_profile.png" 
-   alt = "welcome_logo" 
-   width = "180" />
-
-<h3 align="center">नमस्कारम् — मेरे GitHub प्रोफ़ाइल में आपका स्वागत है।</h3>
-<h4 align="center">I'm Himanshu Sharma, Senior Front-End developer
-<img src = "./public/IndianFlag.png" alt = "Indian_flag" width = "20" /> from 
-<strong>Rajasthan, India</strong>.</h4>
-</div>
-
-
 ## Tools & technologies I code with
 
 <table>
@@ -188,3 +174,18 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/himanshusharma1632)&nbsp;
 [![Instagram](https://img.shields.io/badge/-Instagram-FF0069?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/himanshusharmapiano/)&nbsp;
 [![X.com](https://img.shields.io/badge/-X.com-000000?style=flat&logo=x&logoColor=white)](https://x.com/HimanshuShPiano)&nbsp;
+
+<!---
+<div align="center">
+  <img 
+   style = "background:none" 
+   src = "./public/himanshu_profile.png" 
+   alt = "welcome_logo" 
+   width = "180" />
+
+<h3 align="center">नमस्कारम् — मेरे GitHub प्रोफ़ाइल में आपका स्वागत है।</h3>
+<h4 align="center">I'm Himanshu Sharma, Senior Front-End developer
+<img src = "./public/IndianFlag.png" alt = "Indian_flag" width = "20" /> from 
+<strong>Rajasthan, India</strong>.</h4>
+</div>
+--->
