@@ -119,16 +119,16 @@
 ## An easy way to connect/remember me
 
 <p align="center">
-  <a href="" target="_blank">
+  <a href="https://www.linkedin.com/in/hscodes/" target="_blank">
     <img src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square" alt = "connect with linkedin" />
  </a>
- <a href="" target="_blank">
+ <a href="https://github.com/himanshusharma1632" target="_blank">
     <img src = "https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoSize=auto&logoColor=white" alt = "connect with github" />
  </a>
- <a href="" target="_blank">
+ <a href="https://www.instagram.com/himanshusharmapiano/" target="_blank">
    <img src = "https://img.shields.io/badge/-Instagram-FF0069?style=flat-square&logo=instagram&logoSize=auto&logoColor=white" alt = "connect with instagram" />
  </a>
- <a href="" target="_blank">
+ <a href="https://x.com/HimanshuShPiano" target="_blank">
    <img src = "https://img.shields.io/badge/-X.com-000000?style=flat-square&logo=x&logoSize=auto&logoColor=white" alt = "connect with tweeter(x)" />
  </a>
 </p>
