@@ -1,7 +1,6 @@
 <div align="left">
   <img src="./public/blob-sunglasses.gif" alt="blob_cool" width="25" height="25" />
-  Hello there! So nice to see you here
-  <br />
+  <h2>Hello there! So nice to see you here</h2>
 </div>
 
 <table>
