@@ -3,7 +3,7 @@
 </div>
 
 <table>
- <tbody>
+ <tbody style="border:none">
    <tr>
      <td align="center">
        <img 
