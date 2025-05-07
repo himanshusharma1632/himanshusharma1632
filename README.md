@@ -141,7 +141,7 @@
      <td>
        <a href="https://himanshusharma1632.github.io/MathrubhumiGroup/" target="_blank">Click here</a>
      </td>
-     <td><img src="https://img.shields.io/badge/-logo=ticktick&logoSize=auto&logoColor=white-Completed-FF9E0F?style=flat-square" /></td>
+     <td><img src="https://img.shields.io/badge/_-Completed-FF9E0F?style=flat-square&logo=ticktick&logoSize=auto&logoColor=white" /></td>
   </tr>
  </tbody>
 </table>
