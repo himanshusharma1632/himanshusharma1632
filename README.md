@@ -51,14 +51,14 @@
      <td>CSS tools & UI libraries</td>
      <td>
       <p>
-         <img src = "https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=Sass&logoSize=auto&logoColor=white" alt = "skill:Sass" />
-         <img src = "https://img.shields.io/badge/-Tailwind CSS-06B6D4?style=flat-square&logo=tailwindcss&logoSize=auto&logoColor=white" alt = "skill:tailwindCSS" />
          <img src = "https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoSize=auto&logoColor=white" alt = "skill:bootstrap" />
          <img src = "https://img.shields.io/badge/-Material UI-007FFF?style=flat-square&logo=mui&logoSize=auto&logoColor=white" alt = "skill:MUI" />
-         <img src = "https://img.shields.io/badge/-shadcn/ui-000000?style=flat-square&logo=shadcnui&logoSize=auto&logoColor=white" alt = "skill:shadcn/ui" />
+         <img src = "https://img.shields.io/badge/-Tailwind CSS-06B6D4?style=flat-square&logo=tailwindcss&logoSize=auto&logoColor=white" alt = "skill:tailwindCSS" />
          <img src = "https://img.shields.io/badge/-Semantic UI-00B5AD?style=flat-square&logo=semanticui&logoSize=auto&logoColor=white" alt = "skill:semanticUI" />
+         <img src = "https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=Sass&logoSize=auto&logoColor=white" alt = "skill:Sass" />
          <img src = "https://img.shields.io/badge/-Styled Components-DB7093?style=flat-square&logo=styledcomponents&logoSize=auto&logoColor=white" alt = "skill:styledComponents" />
          <img src = "https://img.shields.io/badge/-Lucide React Icons-F56565?style=flat-square&logo=lucide&logoSize=auto&logoColor=white" alt = "skill:Lucide React" />
+         <img src = "https://img.shields.io/badge/-shadcn/ui-000000?style=flat-square&logo=shadcnui&logoSize=auto&logoColor=white" alt = "skill:shadcn/ui" />
       </p>
      </td>
    </tr>
