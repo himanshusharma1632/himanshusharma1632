@@ -24,7 +24,10 @@
  </tbody>
 </table>
 
-## Tools & technologies I code with
+<h2>
+  <img src="./public/coding_laptop.gif" alt="coding_blob" width="25" height="25" />
+  Tools & technologies I code with
+</h2>
 
 <table>
  <thead align="center">
