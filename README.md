@@ -1,6 +1,6 @@
  <h2>
   <img src="./public/blob-sunglasses.gif" alt="blob_cool" width="25" height="25" />
-  Hello there! So nice to see you here
+  Hello there! So nice to see you
 </h2>
 
 <table>
