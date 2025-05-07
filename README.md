@@ -136,9 +136,12 @@
    <tr>
      <td>Mathrubhumi Group</td>
      <td>
-       <img src = "https://img.shields.io/badge/-Website-FF9E0F?style=for-the-badge" alt = "projectType:website" />
+       <img src = "https://img.shields.io/badge/-Website-FF9E0F?style=flat" alt = "projectType:website" />
      </td>
-     <td><a href="https://himanshusharma1632.github.io/MathrubhumiGroup/" target="_blank">Click here</a></td>
+     <td>
+       <a href="https://himanshusharma1632.github.io/MathrubhumiGroup/" target="_blank">Click here</a>
+     </td>
+     <td><img src="https://img.shields.io/badge/-logo=ticktick&logoSize=auto&logoColor=white-Completed-FF9E0F?style=flat-square" /></td>
   </tr>
  </tbody>
 </table>
