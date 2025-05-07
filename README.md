@@ -16,7 +16,7 @@
 </div>
 
 <h2>
- <img src="./public/blob-sunglasses.gif" alt="blob_cool" width="25" height="25" style="vertical-align:middle" />
+ <img src="./public/blob-sunglasses.gif" alt="blob_cool" width="25" height="25" style="position: relative; top: 5px;" />
  Tools & technologies I code with
 </h2>
 
