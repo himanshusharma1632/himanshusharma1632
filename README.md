@@ -68,10 +68,10 @@
        <p>
          <img src = "https://img.shields.io/badge/-ASP.NET Core-512BD4?style=flat-square&logo=dotnet&logoSize=auto&logoColor=white" alt = "skill:ASP.NET" />
          <img src = "https://img.shields.io/badge/-NuGet-004880?style=flat-square&logo=nuget&logoSize=auto&logoColor=white" alt = "skill:NuGet" />
-         <img src = "https://img.shields.io/badge/-JSON Web Tokens-000000?style=flat-square&logo=jsonwebtokens&logoSize=auto&logoColor=white" alt = "skill:JWTs" />
+         <img src = "https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoSize=auto&logoColor=white" alt = "skill:PostgreSQL" />
          <img src = "https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoSize=auto&logoColor=white" alt = "skill:Docker" />
          <img src = "https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoSize=auto&logoColor=white" alt = "skill:MySQL" />
-         <img src = "https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoSize=auto&logoColor=white" alt = "skill:PostgreSQL" />
+         <img src = "https://img.shields.io/badge/-JSON Web Tokens-000000?style=flat-square&logo=jsonwebtokens&logoSize=auto&logoColor=white" alt = "skill:JWTs" />
        </p>
      </td>
    </tr>
@@ -89,8 +89,8 @@
      <td>
        <p>
           <img src = "https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoSize=auto&logoColor=white" alt = "skill:Git" />
-          <img src = "https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoSize=auto&logoColor=white" alt = "skill:Github" />
           <img src = "https://img.shields.io/badge/-GitHub Actions-2088FF?style=flat-square&logo=githubactions&logoSize=auto&logoColor=white" alt = "skill:Github Actions" />
+          <img src = "https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoSize=auto&logoColor=white" alt = "skill:Github" />
           <img src = "https://img.shields.io/badge/-GitHub Pages-222222?style=flat-square&logo=githubpages&logoSize=auto&logoColor=white" alt = "skill:Github Pages" />
        </p>
      </td>
