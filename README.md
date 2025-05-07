@@ -15,7 +15,7 @@
 <strong>Rajasthan, India</strong>.</h4>
 </div>
 
-## Tools & Technologies I work with
+## Tools & technologies I code with
 
 <table>
  <thead align="center">
@@ -115,23 +115,30 @@
    </tr>
  </tbody>
 </table>
-<small><strong>Note</strong>All listed tools are ones I've used extensively and hold professional proficiency in.</small>
+<small>
+ <strong>Note&nbsp;|</strong>&nbsp;
+ All of the above listed tools are ones I've used extensively and hold professional proficiency in.
+</small>
 
 ## My recent projects collection
 
 <table>
  <thead align="center">
   <tr border="none">
-    <td><strong>Project</strong></td>
-    <td><strong>Status</strong></td>
+    <td><strong>Project Name</strong></td>
+    <td><strong>Type</strong></td>
     <td><strong>View LIVE</strong></td>
+    <td><strong>Status</strong></td>
   </tr>
  </thead>
 
  <tbody>
    <tr>
-     <td>Mathrubhumi</td>
-     <td></td>
+     <td>Mathrubhumi Group</td>
+     <td>
+       <img src = "https://img.shields.io/badge/-Website-FF9E0F?style=for-the-badge" alt = "projectType:website" />
+     </td>
+     <td><a href="https://himanshusharma1632.github.io/MathrubhumiGroup/" target="_blank">Click here</a></td>
   </tr>
  </tbody>
 </table>
