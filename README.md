@@ -32,10 +32,10 @@
           <img src = "https://img.shields.io/badge/-Create React App-1F305F?style=flat-square&logo=createreactapp&logoSize=auto&logoColor=white" alt = "skill:CreateReactApp" />
           <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS&logoSize=auto&logoColor=white" alt = "skill:CSS3" />
           <img src = "https://img.shields.io/badge/-Typescript-3178C6?style=flat-square&logo=typescript&logoSize=auto&logoColor=white" alt = "skill:typescript" />
-          <img src = "https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoSize=auto&logoColor=white" alt = "skill:Vite" />
-          <img src = "https://img.shields.io/badge/-React.Js-61DAFB?style=flat-square&logo=react&logoSize=auto&logoColor=white" alt = "skill:react.js" />
           <img src = "https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoSize=auto&logoColor=white" alt = "skill:Redux" />
           <img src = "https://img.shields.io/badge/-Redux Toolkit-4951F5?style=flat-square&logo=reduxsaga&logoSize=auto&logoColor=white" alt = "skill:Redux/Toolkit" />
+          <img src = "https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoSize=auto&logoColor=white" alt = "skill:Vite" />
+          <img src = "https://img.shields.io/badge/-React.Js-61DAFB?style=flat-square&logo=react&logoSize=auto&logoColor=white" alt = "skill:react.js" />
           <img src = "https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoSize=auto&logoColor=white" alt = "skill:NPM" />
           <img src = "https://img.shields.io/badge/-React Router DOM-CA4245?style=flat-square&logo=reactrouter&logoSize=auto&logoColor=white" alt = "skill:reactRouterDOM" />
           <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoSize=auto&logoColor=white" alt = "skill:HTML5" />
