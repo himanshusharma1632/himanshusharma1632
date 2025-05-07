@@ -15,7 +15,10 @@
 <strong>Rajasthan, India</strong>.</h4>
 </div>
 
-## Tools & technologies I code with
+<h2>
+ <img src="./public/blob-sunglasses.gif" alt="blob_cool" width="25" height="25" vertical-align="middle" />
+ Tools & technologies I code with
+</h2>
 
 <table>
  <thead align="center">
@@ -162,9 +165,7 @@
  An easy way to connect/remember me
 </h2>
 
-<p align="center">
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat)](https://www.linkedin.com/in/hscodes/)&nbsp;
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/himanshusharma1632)&nbsp;
 [![Instagram](https://img.shields.io/badge/-Instagram-FF0069?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/himanshusharmapiano/)&nbsp;
 [![X.com](https://img.shields.io/badge/-X.com-000000?style=flat&logo=x&logoColor=white)](https://x.com/HimanshuShPiano)&nbsp;
-</p>
