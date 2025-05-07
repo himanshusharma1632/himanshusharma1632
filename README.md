@@ -20,8 +20,8 @@
 <table>
  <thead align="center">
   <tr border="none">
-    <td>Category</td>
-    <td>Expertize in tools</td>
+    <td><strong>Category</strong></td>
+    <td><strong>Expertize in tools</strong></td>
   </tr>
  </thead>
  <tbody>
@@ -113,6 +113,24 @@
        </p>
      </td>
    </tr>
+ </tbody>
+</table>
+
+## My recent projects collection
+
+<table>
+ <thead align="center">
+  <tr border="none">
+    <td><strong>Project</strong></td>
+    <td><strong>View LIVE</strong></td>
+  </tr>
+ </thead>
+
+ <tbody>
+   <tr>
+     <td>Front End</td>
+     <td></td>
+  </tr>
  </tbody>
 </table>
 
